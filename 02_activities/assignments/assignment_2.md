@@ -10,25 +10,23 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good visualization: https://public.tableau.com/app/profile/irena.resource/viz/REmapElectricityCapacity/EnergyGenerationCapacity
+      Aesthetic: This visualization is simple, organized, and pleasing to look at. The colours somewhat match their corresponding energy category, and are consistent between the scenario analysis graphs and the shares graphs. Offshore and onshore wind also use similar colours to one another, to show they are within the same umbrella category.
+      Substantive: The stacked area charts clearly visualize how the share of each type of energy would have to shift to meet two different scenarios, as compared to the planned energy scenario. Exact numbers are displayed when hovering over the graph as well. The pie charts clearly show the absolute proportions, which is the additional information required to get a full understanding of the energy transformation.
+      Perceptual: It's clear that the visualization is trying to show how drastic the shift to renewables (and shift away from non-renewables) needs to be in order to meet climate targets.
 
-
-
-
-
-
+      Bad visualization: https://public.tableau.com/app/profile/dhanushka.raj/viz/Cleanenergydashboard/main_dashboard
+      Aesthetic: The dashboard is not well formatted, as the graphs are overlapping and it's hard to even see one of the titles. The line graph also overlaps with the numbers on the 'average feedback score' graph, and there are two y axis with the same information. The 'number of attendees' graph has a zero axis that doesn't seem to belong.
+      Substantive: The dashboard fails to accurately present the data because of poor chart choices and omission of unit definitions. For example, very unclear what the average feedback score is out of. A line graph is not an appropriate choice for visualizing average feedback score.
+      Perceptual: The information that's trying to be conveyed is not using the appropriate formats. It's very unclear what the takeaway from this dashboard is supposed to be.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Good visualization: I think the aesthetic elements could be improved - there could be better colour contrast between non-renewables and onshore/ offshore wind, especially to make the visualization more accessible. While this visualization is part of a larger report, to improve the perceptual aspect,  it would be good to define what the 'transforming energy scenario' is referring to (in terms of limiting warming).
 
+      Bad visualization: The aeshetic elements could be improved with better formatting - making sure all graphs are clearly seen and data labels don't overlap with other elements. Better choice of charts would improve the substantive and perceptual elements. Number of attendees by village should probably be changed to a percentage if using a pie chart. Average feedback score would be better visualized using a simple bar chart. Axis that don't serve any purpose should be removed. Units should be defined clearly, especially for average feedback score.
 
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
